@@ -24,7 +24,7 @@ furnished to do so, subject to the following conditions:
        intent. No one likes cheaters.
 
 3. VIDEO GAME CHEATING RESTRICTIONS:
-   Exclusive Valorant Exemption: Notwithstanding Section 3(a), if the
+   Exclusive Valorant Exemption: Notwithstanding Section 2(b), if the
    Software is used for the express purpose of video game cheating, it
    MAY ONLY be incorporated into cheats for Riot Games' Valorant (regardless
    of how mathematically impossible or absurd that may be).
